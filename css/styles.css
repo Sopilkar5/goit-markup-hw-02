@@ -189,3 +189,12 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
+.studio-logo-2{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
