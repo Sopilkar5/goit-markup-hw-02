@@ -178,10 +178,10 @@ font-family: "Roboto", sans-serif;
         border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
 } 
-.bottom {
+.low{
     background-color: #2e2f42;
 }
-.bottom-description{
+.low-description{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
