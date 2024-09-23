@@ -54,9 +54,11 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #434455;
 }
+.phone-mail{
+    font-style: normal;
+}
 .phone-mail .phone,
 .mail{
-    font-style: normal;
         text-decoration: none;
 }
 ul {
@@ -102,7 +104,7 @@ background-color: #404BBF
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.description-quality{
+.description{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -124,8 +126,7 @@ background-color: #404BBF
         text-transform: capitalize;
 }
 .team-card{
-        box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-            background: #fff;
+     background: #fff;
 }
 .card-title{
     font-family: "Roboto", sans-serif;
@@ -184,6 +185,16 @@ font-family: "Roboto", sans-serif;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+.web-logo-2{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
 }
 .studio-logo-2{
     font-family: "Raleway", sans-serif;
