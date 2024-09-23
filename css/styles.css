@@ -26,7 +26,7 @@ color: #434455;
         color: #2e2f42;
 }
 .point{
-font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -38,15 +38,7 @@ font-family: "Roboto", sans-serif;
 .point:hover, .point:focus{
     color: #404bbf;
 }
-.phone{
-    font-family: "Roboto", sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
-.mail{
+.parameters{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -57,17 +49,13 @@ font-family: "Roboto", sans-serif;
 .phone-mail{
     font-style: normal;
 }
-.phone-mail .phone,
-.mail{
+.phone-mail .parameters{
         text-decoration: none;
 }
 ul {
 	list-style-type: none;
 }
-.phone-mail .phone:hover, .phone-mail .phone:focus {
-    color: #404bbf;
-}
-.phone-mail .mail:hover, .phone-mail .mail:focus {
+.phone-mail .parameters:hover, .phone-mail .parameters:focus {
     color: #404bbf;
 }
 .solutions{
@@ -83,7 +71,6 @@ background: #2e2f42;
     color: #fff;
 }
 .form{
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 cursor:pointer;
 font-family: "Roboto", sans-serif;
@@ -186,17 +173,7 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-.web-logo-2{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    text-decoration: none;
-}
-.studio-logo-2{
+.studio-logo-two{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
